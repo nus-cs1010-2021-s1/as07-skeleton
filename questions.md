@@ -182,8 +182,8 @@ for O(n): sort).
 ooiwt@pe119:~/as07-weitsang$ cat inputs/inversion.1.in
 5
 1 3 5 4 2
-ooiwt@pe119:~/as07-weitsang$ ./inversion < inputs/inversion.2.in
-5
+ooiwt@pe119:~/as07-weitsang$ ./inversion < inputs/inversion.1.in
+4
 ooiwt@pe119:~/as07-weitsang$ cat inputs/inversion.2.in
 3
 1 20 300
